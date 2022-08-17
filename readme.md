@@ -6,7 +6,9 @@ This project used SQLAlchemy to connect to a SQL database and filter and load Ha
 
 ## Results
 
-![jun_df](june_temps.png) ![dec_df](dec_temps.png)
+|   |   |
+| - | - |
+| ![jun_df](june_temps.png) | ![dec_df](dec_temps.png) |
 
 * The difference in mean temperature between the two months is less than 5 F.
 * December had a minimum temperature 8 F lower than June.
